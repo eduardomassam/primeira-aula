@@ -6,3 +6,7 @@ git push origin develop - para postar em outra branch de nome develop
 
 git pull - tras os arquivos para a maquina, se as versoes forem iguais, nao muda nada
 git pull origin develop - tras os arquivos para a maquina da branch develop, se as versoes forem iguais, nao muda nada
+
+git merge develop - junta a branch develop na branch que está atualmente
+git push origin main - continuação do comando acima, supondo que estavamos na main
+
